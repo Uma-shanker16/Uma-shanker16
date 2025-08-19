@@ -1,4 +1,4 @@
-![Banner](./A_clean_and_professional_rectangular_digital_graph.png)
+![Banner](https://user-images.githubusercontent.com/yourusername/banner.png)
 # 🌟 Uma Shanker Chintha  
 
 **Transforming Data into Business Impact**  

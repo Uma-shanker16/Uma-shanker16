@@ -1,8 +1,14 @@
 # 🌟 Uma Shanker Chintha  
-
-**Transforming Data into Business Impact**  
 🎯 **Data Analyst | Power BI Developer | Business Intelligence | AI-Enhanced Analytics** 
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR-LINK) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=githubpages)](https://YOUR_PORTFOLIO_LINK) 
+[![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
+
+---
+
+**Transforming Data into Business Impact** 
 🔹 Professional & Impact-driven
 
 Transforming Data into Business Impact | BI • SQL • Power BI • AI-Driven Insights
@@ -18,12 +24,6 @@ Business Intelligence & Data Analytics | Power BI • SQL • Cloud Data • AI 
 🔹 Bold & Recruiter-catching
 
 From Data to Decisions | Business Intelligence • AI-Enhanced Analytics • Cloud Data Solutions
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR-LINK) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=githubpages)](https://YOUR_PORTFOLIO_LINK) 
-[![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
-
----
 
 ## 🧑‍💼 About Me  
 I’m a results-oriented **Data Analyst and BI Developer** with over **4 years of experience** turning complex datasets into actionable insights across **finance and healthcare domains**.  

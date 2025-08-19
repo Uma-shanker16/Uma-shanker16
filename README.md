@@ -1,7 +1,8 @@
+![Banner](./A_clean_and_professional_rectangular_digital_graph.png)
 # 🌟 Uma Shanker Chintha  
 
 **Transforming Data into Business Impact**  
-📊 Data Analyst | Power BI Developer |Cloud BI Architect  |   |
+🎯 **Data Analyst | Power BI Developer | Business Intelligence | AI-Enhanced Analytics** 
 
 🔹 Professional & Impact-driven
 
@@ -25,50 +26,41 @@ From Data to Decisions | Business Intelligence • AI-Enhanced Analytics • Clo
 
 ---
 
-## 🚀 About Me  
-I have 4+ years of experience in **data visualization, ETL pipelines, and BI solutions** across finance and healthcare.  
-- 📊 Designed **enterprise-grade dashboards** in Power BI and Tableau.  
-- ⚙️ Built scalable **ETL workflows** with SSIS & Azure Data Factory.  
-- ☁️ Skilled in **Azure, AWS, and hybrid data architectures**.  
-- 🧩 Passionate about **data storytelling, governance, and automation**.  
+## 🧑‍💼 About Me  
+I’m a results-oriented **Data Analyst and BI Developer** with over **4 years of experience** turning complex datasets into actionable insights across **finance and healthcare domains**.  
+
+- 🔍 Skilled at **designing dashboards & reports** with Power BI, Tableau, and SSRS  
+- ⚙️ Built **enterprise ETL pipelines** using SQL Server, SSIS, and Azure Data Factory  
+- ☁️ Experienced with **Azure, AWS, and hybrid cloud data architectures**  
+- 📊 Strong SQL developer with expertise in T-SQL, PL/SQL, DAX, and performance tuning  
+- 🤖 Exploring **AI for Business Intelligence** — using NLP, Generative AI, and forecasting models to add smarter insights to BI dashboards  
+- 🤝 Passionate about **data storytelling, governance, and helping teams adopt BI tools**  
+- 🚀 Currently expanding into **Business Intelligence with AI & Business Analyst skills** via LinkedIn Learning and Coursera  
 
 ---
- 
-## 🧑‍💻 Core Skills
 
-- **Data Analytics & BI**: Power BI, Tableau, SSRS, SSIS, SSAS, SQL Server, Oracle, Teradata  
+## 🧑‍💻 Core Skills  
+
+- **Business Intelligence & Analytics**: Power BI, Tableau, SSRS, SSIS, SSAS, Einstein Analytics  
 - **Programming & Data**: SQL (T-SQL, PL/SQL), DAX, Python, R, MDX  
+- **ETL & Data Engineering**: Data modeling (Star/Snowflake), data pipelines, performance tuning  
 - **Cloud Platforms**: Azure (ADF, ADLS, Logic Apps), AWS, Google BigQuery  
-- **ETL & Data Engineering**: Building end-to-end pipelines, data modeling (star/snowflake), performance tuning  
-- **Business Intelligence with AI**:  
-  - Generative AI for data storytelling & automated insights  
-  - NLP for customer feedback and sentiment analysis  
-  - AI-powered forecasting and anomaly detection in BI dashboards  
-- **Business & Strategy Skills**: KPI design, stakeholder communication, agile project delivery, data governance & compliance  
-- **Other Strengths**: Automation, problem-solving, dashboard UX design, mentoring teams in BI adoption
-
----
-
-## 🏆 Highlight Projects  
-📌 **Financial Insights Dashboard (Fidelity)**  
-Power BI dashboards for investment KPIs and predictive analytics using Python.  
-
-📌 **Healthcare Claims Analytics (Omega)**  
-ETL pipelines with SSIS & Tableau dashboards for claims and provider networks.  
-
-📌 **Customer Feedback NLP**  
-Python NLP models integrated with Power BI for global sentiment analysis.  
-
-📌 **End-to-End BI Environment**  
-Setup Power BI Service (RLS, refresh schedules, app deployments) for enterprise reporting.  
+- **AI in BI**:  
+  - Generative AI for data storytelling & automation  
+  - NLP for customer feedback & sentiment analysis  
+  - AI-driven forecasting and anomaly detection  
+- **Business & Strategy**: KPI design, stakeholder communication, agile methods, compliance  
 
 ---
 
 ## 📚 Education & Certifications  
-🎓 **M.S. in Computer and Information Science** – Campbellsville University  
+
+🎓 **M.S. in Computer and Information Science** — Campbellsville University  
 📜 **Azure Data Fundamentals** | **AWS Cloud Practitioner**  
+📜 LinkedIn Learning Courses: Power BI (PL-300), BI for Consultants, AI for Business Analysis  
+📜 Upcoming Coursera Programs: Google BI Certificate, IBM BI Analyst, Generative AI for Data Analytics  
 
 ---
 
-✨ *Always exploring new ways to turn raw data into powerful business stories.*  
+✨ *Transforming Data into Business Impact with BI, Cloud, and AI-driven Insights.*
 

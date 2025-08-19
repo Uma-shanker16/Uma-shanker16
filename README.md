@@ -8,7 +8,7 @@
 
 ---
 
-**Transforming Data into Business Impact** 
+
 🔹 Professional & Impact-driven
 
 Transforming Data into Business Impact | BI • SQL • Power BI • AI-Driven Insights

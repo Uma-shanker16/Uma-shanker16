@@ -3,6 +3,22 @@
 **Transforming Data into Business Impact**  
 📊 Data Analyst | Power BI Developer |Cloud BI Architect  |   |
 
+🔹 Professional & Impact-driven
+
+Transforming Data into Business Impact | BI • SQL • Power BI • AI-Driven Insights
+
+🔹 AI & Analytics Focused
+
+Data Analyst & BI Developer | Turning Complex Data into Actionable Insights with Power BI, SQL, and Generative AI
+
+🔹 Balanced (Technical + Business)
+
+Business Intelligence & Data Analytics | Power BI • SQL • Cloud Data • AI for Business Strategy
+
+🔹 Bold & Recruiter-catching
+
+From Data to Decisions | Business Intelligence • AI-Enhanced Analytics • Cloud Data Solutions
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR-LINK) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=githubpages)](https://YOUR_PORTFOLIO_LINK) 
 [![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
@@ -17,12 +33,19 @@ I have 4+ years of experience in **data visualization, ETL pipelines, and BI sol
 - 🧩 Passionate about **data storytelling, governance, and automation**.  
 
 ---
+ 
+## 🧑‍💻 Core Skills
 
-## 🔑 Core Competencies  
-- **Business Intelligence**: Power BI, Tableau, SSRS, SSAS, Einstein Analytics  
-- **Databases & SQL**: SQL Server, Oracle, Teradata, Azure SQL DB  
-- **Cloud Platforms**: Azure (ADF, ADLS, Logic Apps), AWS, GCP  
-- **Programming**: SQL (T-SQL, PL/SQL), DAX, Python, R  
+- **Data Analytics & BI**: Power BI, Tableau, SSRS, SSIS, SSAS, SQL Server, Oracle, Teradata  
+- **Programming & Data**: SQL (T-SQL, PL/SQL), DAX, Python, R, MDX  
+- **Cloud Platforms**: Azure (ADF, ADLS, Logic Apps), AWS, Google BigQuery  
+- **ETL & Data Engineering**: Building end-to-end pipelines, data modeling (star/snowflake), performance tuning  
+- **Business Intelligence with AI**:  
+  - Generative AI for data storytelling & automated insights  
+  - NLP for customer feedback and sentiment analysis  
+  - AI-powered forecasting and anomaly detection in BI dashboards  
+- **Business & Strategy Skills**: KPI design, stakeholder communication, agile project delivery, data governance & compliance  
+- **Other Strengths**: Automation, problem-solving, dashboard UX design, mentoring teams in BI adoption
 
 ---
 

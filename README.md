@@ -1,4 +1,3 @@
-![Banner](https://user-images.githubusercontent.com/yourusername/banner.png)
 # 🌟 Uma Shanker Chintha  
 
 **Transforming Data into Business Impact**  

@@ -2,7 +2,7 @@
 🎯 **Data Analyst | Power BI Developer | Business Intelligence | AI-Enhanced Analytics** 
 
 
-[![LinkedIn](https://www.pngarts.com/files/7/Linkedin-Logo-PNG-Download-Image.png)](www.linkedin.com/in/uma-shanker-chintha-ms-itm-119b33197) 
+[![LinkedIn]((https://img.shields.io/badge/LinkedIn-blue?logo=linkedin))](www.linkedin.com/in/uma-shanker-chintha-ms-itm-119b33197) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=githubpages)](https://YOUR_PORTFOLIO_LINK) 
 [![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
 

@@ -100,6 +100,6 @@ Interested in:
 
 ## 📬 Connect
 
-LinkedIn: *([add link](https://www.linkedin.com/in/uma-shanker-chintha/))*  
+LinkedIn: *(Linkedin(https://www.linkedin.com/in/uma-shanker-chintha/))*  
 Portfolio: *(--)*  
 Email: umausa12@gmail.com

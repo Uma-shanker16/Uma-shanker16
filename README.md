@@ -61,16 +61,6 @@ Generative AI • NLP • Forecasting Models • Predictive Analytics
 
 ---
 
-## 📊 Featured Project
-
-### Airline Market Entry Strategy — Route Profitability Modeling  
-Python-based analysis to identify high-potential U.S. routes for airline expansion using demand, cost, and breakeven modeling.
-
-🔗 Project Link:  
-https://github.com/Uma-shanker16/Airline-Data-Challenge  
-
----
-
 ## 🎓 Certifications
 
 - Generative AI for Data Analysts  
@@ -99,7 +89,7 @@ KPI design • executive dashboards • performance analytics
 
 ## 🔭 Current Direction
 
-Expanding from traditional BI into **AI-augmented analytics** — combining dashboards, automation, and predictive models to help teams act faster and make better decisions.
+Expanding from traditional BI into **AI-augmented analytics** - combining dashboards, automation, and predictive models to help teams act faster and make better decisions.
 
 Interested in:
 - Analytics Engineering roles  
@@ -110,6 +100,6 @@ Interested in:
 
 ## 📬 Connect
 
-LinkedIn: *(add link)*  
-Portfolio: *(add link later)*  
+LinkedIn: *([add link](https://www.linkedin.com/in/uma-shanker-chintha/))*  
+Portfolio: *(--)*  
 Email: umausa12@gmail.com

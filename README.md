@@ -101,5 +101,5 @@ Interested in:
 ## 📬 Connect
 
 LinkedIn: *(Linkedin(https://www.linkedin.com/in/uma-shanker-chintha/))*  
-Portfolio: *(--)*  
+Portfolio: *(https://portfolio-uma12.vercel.app/)*  
 Email: umausa12@gmail.com
